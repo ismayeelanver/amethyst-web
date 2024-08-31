@@ -33,7 +33,7 @@ export default function Home() {
           </code>
         </pre>
 
-        <h2>Made for simplicity but translates to complexity.</h2>
+        <h2>Fast, Flexible and Strong.</h2>
       </div>
     </>
   );
